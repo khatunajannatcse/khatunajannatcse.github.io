@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Khatun A Jannat</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Khatun A Jannat</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;-&amp;ndash;&lt;/p&gt;
+&lt;p&gt;title: &amp;ldquo;About&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;-&amp;ndash;&lt;/p&gt;
+&lt;p&gt;# About Me&lt;/p&gt;
+&lt;p&gt;I am Khatun A Jannat, an MSc student in Computer Science and Engineering with a major in Data Science at Daffodil International University, Bangladesh.&lt;/p&gt;
+&lt;p&gt;My academic interests include Artificial Intelligence, Machine Learning, Deep Learning, Explainable AI, Data Analytics, and Cloud Computing.&lt;/p&gt;
+&lt;p&gt;I am currently conducting research on ADHD prediction using Explainable Deep Learning techniques and behavioral data analysis.&lt;/p&gt;
+&lt;p&gt;# Technical Skills&lt;/p&gt;
+&lt;p&gt;Programming Languages:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/</guid>
+      <description>&lt;p&gt;-&amp;ndash;&lt;/p&gt;
+&lt;p&gt;title: &amp;ldquo;Research&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;-&amp;ndash;&lt;/p&gt;
+&lt;p&gt;# Research Interests&lt;/p&gt;
+&lt;p&gt;- Artificial Intelligence&lt;/p&gt;
+&lt;p&gt;- Machine Learning&lt;/p&gt;
+&lt;p&gt;- Deep Learning&lt;/p&gt;
+&lt;p&gt;- Explainable AI&lt;/p&gt;
+&lt;p&gt;- Healthcare Analytics&lt;/p&gt;
+&lt;p&gt;- Data Science&lt;/p&gt;
+&lt;p&gt;- Cloud Computing&lt;/p&gt;
+&lt;p&gt;# Current Research&lt;/p&gt;
+&lt;p&gt;Explainable Deep Learning Based Early Detection of ADHD in Children Using Behavioral and Demographic Data&lt;/p&gt;
+&lt;p&gt;# Future Research Goals&lt;/p&gt;
+&lt;p&gt;- Healthcare AI&lt;/p&gt;
+&lt;p&gt;- Mental Health Prediction&lt;/p&gt;
+&lt;p&gt;- Explainable AI Systems&lt;/p&gt;
+&lt;p&gt;- Sustainable AI Applications&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
