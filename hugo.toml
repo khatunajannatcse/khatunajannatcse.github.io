@@ -11,9 +11,16 @@ ShowReadingTime = false
 ShowShareButtons = false
 ShowPostNavLinks = false
 ShowBreadCrumbs = false
+ShowCodeCopyButtons = false
 
 [params.profileMode]
-enabled = false
+enabled = true
+title = "Khatun A Jannat"
+subtitle = "MSc Student in CSE (Data Science) | Daffodil International University"
+imageUrl = "/profile.jpeg"
+imageTitle = "Khatun A Jannat"
+imageWidth = 180
+imageHeight = 180
 
 [[menu.main]]
 name = "About"
