@@ -4,18 +4,16 @@ title = "Khatun A Jannat"
 theme = "PaperMod"
 
 [params]
-mainSections = ["pages"]
 author = "Khatun A Jannat"
 description = "MSc Student in CSE (Data Science) at Daffodil International University"
 
+ShowReadingTime = false
+ShowShareButtons = false
+ShowPostNavLinks = false
+ShowBreadCrumbs = false
+
 [params.profileMode]
-enabled = true
-title = "Khatun A Jannat"
-subtitle = "MSc Student in CSE (Data Science) | Daffodil International University"
-imageUrl = "/profile.jpeg"
-imageTitle = "Khatun A Jannat"
-imageWidth = 180
-imageHeight = 180
+enabled = false
 
 [[menu.main]]
 name = "About"
