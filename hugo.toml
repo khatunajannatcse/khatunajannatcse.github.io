@@ -43,5 +43,5 @@ weight = 50
 
 [[menu.main]]
 name = "CV"
-url = "/Khatun_A_Jannat_CV.pdf"
+url = "/cv/"
 weight = 60
