@@ -11,11 +11,11 @@ description = "MSc Student in CSE (Data Science) at Daffodil International Unive
 enabled = true
 title = "Khatun A Jannat"
 subtitle = "MSc Student in CSE (Data Science) | Daffodil International University"
-
 imageUrl = "/profile.jpeg"
 imageTitle = "Khatun A Jannat"
 imageWidth = 180
 imageHeight = 180
+
 [[menu.main]]
 name = "About"
 url = "/about/"
