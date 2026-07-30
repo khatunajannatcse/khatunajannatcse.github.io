@@ -8,7 +8,7 @@ author = "Khatun A Jannat"
 description = "MSc Student in CSE (Data Science) at Daffodil International University"
 
 [params.profileMode]
-enabled = false
+enabled = true
 title = "Khatun A Jannat"
 subtitle = "MSc Student in CSE (Data Science) | Daffodil International University"
 
