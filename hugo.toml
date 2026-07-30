@@ -4,6 +4,7 @@ title = "Khatun A Jannat"
 theme = "PaperMod"
 
 [params]
+mainSections = ["pages"]
 author = "Khatun A Jannat"
 description = "MSc Student in CSE (Data Science) at Daffodil International University"
 
