@@ -6,7 +6,7 @@ title: "Khatun A Jannat"
 
 
 
-\# Welcome to my personal homepage
+\## Welcome to my personal homepage
 
 
 
@@ -28,7 +28,7 @@ I am interested in developing AI-based solutions that create social, environment
 
 \- MSc in Computer Science and Engineering (Data Science)  
 
-&#x20; Daffodil International University
+Daffodil International University
 
 
 
@@ -81,4 +81,8 @@ My goal is to apply Artificial Intelligence and Data Science techniques to solve
 
 
 Email: khatun.jannat.ritu@gmail.com
+
+
+
+Phone: 01788913280
 
