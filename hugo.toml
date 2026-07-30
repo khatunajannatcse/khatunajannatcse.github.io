@@ -40,3 +40,8 @@ weight = 40
 name = "Contact"
 url = "/contact/"
 weight = 50
+
+[[menu.main]]
+name = "CV"
+url = "/Khatun_A_Jannat_CV.pdf"
+weight = 60
