@@ -28,11 +28,13 @@ I am interested in developing AI-based solutions that create social, environment
 
 \- MSc in Computer Science and Engineering (Data Science)  
 
-Daffodil International University
+&#x20; Daffodil International University
 
 
 
 \- BSc in Computer Science and Engineering
+
+
 
 
 
@@ -42,11 +44,19 @@ Daffodil International University
 
 \- Explainable Artificial Intelligence (XAI)
 
+
+
 \- Machine Learning
+
+
 
 \- Healthcare Analytics
 
+
+
 \- AI-based Prediction Systems
+
+
 
 
 
@@ -56,15 +66,27 @@ Daffodil International University
 
 \- Python
 
+
+
 \- Java
+
+
 
 \- PHP
 
+
+
 \- Machine Learning
+
+
 
 \- Data Science
 
+
+
 \- Data Analysis
+
+
 
 
 
@@ -73,6 +95,8 @@ Daffodil International University
 
 
 My goal is to apply Artificial Intelligence and Data Science techniques to solve real-world problems and contribute to impactful research.
+
+
 
 
 
