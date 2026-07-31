@@ -11,7 +11,7 @@ ShowShareButtons = false
 ShowReadingTime = false
 
 [params.profileMode]
-enabled = true
+enabled = false
 title = "Khatun A Jannat"
 subtitle = "MSc Student in CSE (Data Science) | Daffodil International University"
 imageUrl = "/profile.jpeg"
