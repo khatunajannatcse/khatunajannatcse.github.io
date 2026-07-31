@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://khatunajannatcse.github.io/</loc>
-  </url><url>
     <loc>https://khatunajannatcse.github.io/about/</loc>
   </url><url>
     <loc>https://khatunajannatcse.github.io/contact/</loc>
+  </url><url>
+    <loc>https://khatunajannatcse.github.io/home/</loc>
   </url><url>
     <loc>https://khatunajannatcse.github.io/projects/</loc>
   </url><url>
@@ -17,6 +17,8 @@
     <loc>https://khatunajannatcse.github.io/categories/</loc>
   </url><url>
     <loc>https://khatunajannatcse.github.io/cv/</loc>
+  </url><url>
+    <loc>https://khatunajannatcse.github.io/</loc>
   </url><url>
     <loc>https://khatunajannatcse.github.io/tags/</loc>
   </url>

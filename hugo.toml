@@ -7,60 +7,14 @@ theme = "PaperMod"
 author = "Khatun A Jannat"
 description = "MSc Student in CSE (Data Science) at Daffodil International University"
 
-ShowShareButtons = false
-ShowReadingTime = false
-
 [params.profileMode]
-enabled = false
+enabled = true
 title = "Khatun A Jannat"
 subtitle = "MSc Student in CSE (Data Science) | Daffodil International University"
-imageUrl = "/profile.jpeg"
+imageUrl = "profile.jpeg"
 imageTitle = "Khatun A Jannat"
 imageWidth = 180
 imageHeight = 180
-
-[params.homeInfoParams]
-Title = "Welcome to my personal homepage"
-
-Content = """
-I am Khatun A Jannat, an MSc student in Computer Science and Engineering (Data Science) at Daffodil International University.
-
-My research interests include Machine Learning, Explainable AI, Healthcare Analytics, and Data-Driven Intelligent Systems.
-
-I am interested in developing AI-based solutions that create social, environmental, and economic impact.
-
-## Education
-
-MSc in Computer Science and Engineering (Data Science)  
-Daffodil International University
-
-BSc in Computer Science and Engineering
-
-## Research Interests
-
-Explainable Artificial Intelligence (XAI)  
-Machine Learning  
-Healthcare Analytics  
-AI-based Prediction Systems
-
-## Technical Skills
-
-Python  
-Java  
-PHP  
-Machine Learning  
-Data Science  
-Data Analysis
-
-## Research Goal
-
-My goal is to apply Artificial Intelligence and Data Science techniques to solve real-world problems and contribute to impactful research.
-
-## Contact
-
-Email: khatun.jannat.ritu@gmail.com  
-Phone: 01788913280
-"""
 
 [[menu.main]]
 name = "About"

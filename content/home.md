@@ -26,15 +26,13 @@ I am interested in developing AI-based solutions that create social, environment
 
 
 
-\- MSc in Computer Science and Engineering (Data Science)  
+\- MSc in Computer Science and Engineering (Data Science)
 
-&#x20; Daffodil International University
+\- Daffodil International University
 
 
 
 \- BSc in Computer Science and Engineering
-
-
 
 
 
@@ -49,8 +47,6 @@ I am interested in developing AI-based solutions that create social, environment
 \- Healthcare Analytics
 
 \- AI-based Prediction Systems
-
-
 
 
 
@@ -72,15 +68,11 @@ I am interested in developing AI-based solutions that create social, environment
 
 
 
-
-
 \## Research Goal
 
 
 
 My goal is to apply Artificial Intelligence and Data Science techniques to solve real-world problems and contribute to impactful research.
-
-
 
 
 
